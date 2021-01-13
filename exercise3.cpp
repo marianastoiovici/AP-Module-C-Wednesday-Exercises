@@ -1,5 +1,5 @@
 // C++ program that takes a filename from the user and checks if it exists. If it exists it display and add a count to each line and display the total number of lines at the end; an appropriate indication should be given if the file specified does not exist.
-// https://repl.it/@mstoiovici/FileExists#main.cpp
+// https://repl.it/@mstoiovici/FileReader#main.cpp
 #include <iostream>
 #include <fstream> // provides ofstream and ifstream
 #include <sys/stat.h>
